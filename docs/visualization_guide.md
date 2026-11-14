@@ -56,10 +56,10 @@ In the output folder, look for a file named `graph.graphml`. graphml is a standa
 ## 7. Resize Nodes by Degree Centrality
 1. In the `Appearance` pane in the upper left, select `Nodes` -> `Ranking`
 2. Select the `Sizing` icon in the upper right.
-2. Choose `Degree` and set:
+3. Choose `Degree` and set:
    - **Min**: 10
    - **Max**: 150
-3. Click `Apply`.
+4. Click `Apply`.
 
 ## 8. Layout the Graph
 1. In the `Layout` tab in the lower left, select `OpenORD`.
